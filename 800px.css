@@ -1,0 +1,38 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+#contenedor{
+    width: 100%;
+}
+nav{
+    background-color: coral;
+    width: 100%;
+}
+section{
+    width: 100%;
+    margin-left:0;
+    border-top:1px black solid;
+}
+aside{
+    width: 100%;
+    border-top: 1px black solid;
+}
+li{
+    margin-bottom: 0.8em;
+
+}
+a{
+    color: black;
+}
+h1{
+    margin-left: 0.3em;
+}
+h2{
+    margin-left: 0.3em;
+    margin-top: 1.4em;
+}
+p{
+    margin-left: 0.6em;
+    margin-top: 1.4em;
+}
